@@ -1,5 +1,4 @@
-# ianweddell.github.io
-A github website play area
+# What is this?
 
 I'm not entirely sure how this will shape out, maybe a blog for thinking, writing articles, or creative sketching.
 
